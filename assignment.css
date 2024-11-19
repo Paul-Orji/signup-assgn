@@ -1,0 +1,47 @@
+.reg {
+    margin: 0 40px
+}
+.reg h2{
+    color: rgb(225, 59, 59) ;
+}
+.reg p{
+    font-size: 12px;
+    color: grey;
+}
+.regg2{
+    display: flex;
+    justify-content: center;
+    
+}
+.regg2 img{
+    border-radius: 0 50px 0 50px;
+}
+form{
+    margin-top: 20px;
+}
+label{
+    font-size: 14px;
+}
+
+input{
+    border: solid 0.5px grey;
+    border-radius: 5px;
+    height: 25px;
+    width: 150px;
+    padding: 0 10px;
+    margin: 5px 10px;
+    font-size: 12px;
+    
+}
+#reg-btn{
+    margin-top: 30px;
+    border: none;
+    border-radius: 5px;
+    height: 25px;
+    width:150px ;
+    background-color: rgb(225, 59, 59);
+    color: #fff;
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
